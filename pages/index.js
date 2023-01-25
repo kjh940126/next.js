@@ -9,6 +9,7 @@ export default function Home() {
   return (
     <>
       Helllo next.js
+      Hi
     </>
   )
 }
